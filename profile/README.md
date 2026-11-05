@@ -1,8 +1,10 @@
 # Techpilots
 
-Vi bygger snabba, tillgängliga webbplatser och e-handel för små och medelstora företag.
+Digitala lösningar för växande företag
 
-**Teknik:** Next.js · React · TypeScript · Tailwind CSS · Medusa · Payload CMS · Sanity · Stripe · PostgreSQL
+Vi bygger företagswebbplatser och e-handelslösningar med fokus på prestanda, användarupplevelse och konvertering
+
+**Teknik:** Next.js · React · TypeScript · Tailwind CSS · Shopify, Medusa · Payload CMS · Sanity · Stripe · PostgreSQL m.m
 
 ## Projekt
 
